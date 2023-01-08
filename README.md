@@ -3,7 +3,7 @@
 Foi construído o backend para um sistema genérico para uma pizzaria, com a ideia de ser usado para o gerenciamento dos pedidos, criação de pedidos, produtos, items, listagem e exclusão, foi construído com base no curso do Matheus Fraga [Projeto Completo NodeJS, React, React Native, TypeScript](https://www.udemy.com/course/dev-fullstack/)
 
 <h1 align="center">
-    <img alt="" title="" src="https://blog.wokgrill.com.br/wp-content/uploads/2020/07/pizza-capa.jpg" width= '400px' />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://th.bing.com/th/id/OIP.k0jfqTlpfqzH10Mgyn8CrQHaE7?pid=ImgDet&rs=1" width= '350px' />
 </h1>
 
 # Como Usar?
