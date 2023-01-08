@@ -1,8 +1,6 @@
 # Backend - Pizzaria (Node.js, Postgress, Express)
 
-<h4> Foi construido o backend para um sistema generico para uma pizzaria, com a ideia de ser usado para o gereciamento dos pedidos, criação de pedidos, produtos, items, listagem e exclusão, foi construido com base no curso do Matheus Fraga
- - <a src="https://www.udemy.com/course/dev-fullstack/"> Projeto Completo NodeJS, React, React Native, TypeScript
-</a>. </h4>
+Foi construido o backend para um sistema generico para uma pizzaria, com a ideia de ser usado para o gereciamento dos pedidos, criação de pedidos, produtos, items, listagem e exclusão, foi construido com base no curso do Matheus Fraga [Projeto Completo NodeJS, React, React Native, TypeScript](https://www.udemy.com/course/dev-fullstack/)
 
 <h1 align="center">
     <img alt="" title="" src="https://blog.wokgrill.com.br/wp-content/uploads/2020/07/pizza-capa.jpg" width= '400px' />
