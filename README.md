@@ -5,7 +5,7 @@
 </a>. </h4>
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://blog.wokgrill.com.br/wp-content/uploads/2020/07/pizza-capa.jpg" width= '400px' />
+    <img alt="" title="" src="https://blog.wokgrill.com.br/wp-content/uploads/2020/07/pizza-capa.jpg" width= '400px' />
 </h1>
 
 # Como Usar?
